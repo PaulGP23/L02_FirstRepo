@@ -1,4 +1,4 @@
-# This is an R script.
+# This is an R script
 
 # All lines that begin with a hash-symbol "#" will be ignored when running code.
 # This is useful for writing in-line comments to explain what your code does.
